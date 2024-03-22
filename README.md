@@ -3,7 +3,7 @@
 
 
 
-
+This directory contains my portfolio, showcasing my skills, achievements, and aspirations.
 
 
 
